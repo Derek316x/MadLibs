@@ -14,6 +14,7 @@
 		69D284D41B24C50000FCCA8F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 69D284D31B24C50000FCCA8F /* Images.xcassets */; };
 		69D284D71B24C50000FCCA8F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 69D284D51B24C50000FCCA8F /* LaunchScreen.xib */; };
 		69D284E31B24C50000FCCA8F /* MadLibsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 69D284E21B24C50000FCCA8F /* MadLibsTests.m */; };
+		69D284ED1B24E30300FCCA8F /* species.png in Resources */ = {isa = PBXBuildFile; fileRef = 69D284EC1B24E30300FCCA8F /* species.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		69D284DC1B24C50000FCCA8F /* MadLibsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MadLibsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		69D284E11B24C50000FCCA8F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		69D284E21B24C50000FCCA8F /* MadLibsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MadLibsTests.m; sourceTree = "<group>"; };
+		69D284EC1B24E30300FCCA8F /* species.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = species.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 				69D284CA1B24C50000FCCA8F /* AppDelegate.h */,
 				69D284CB1B24C50000FCCA8F /* AppDelegate.m */,
 				69D284CD1B24C50000FCCA8F /* ViewController.h */,
+				69D284EC1B24E30300FCCA8F /* species.png */,
 				69D284CE1B24C50000FCCA8F /* ViewController.m */,
 				69D284D01B24C50000FCCA8F /* Main.storyboard */,
 				69D284D31B24C50000FCCA8F /* Images.xcassets */,
@@ -201,6 +204,7 @@
 			files = (
 				69D284D21B24C50000FCCA8F /* Main.storyboard in Resources */,
 				69D284D71B24C50000FCCA8F /* LaunchScreen.xib in Resources */,
+				69D284ED1B24E30300FCCA8F /* species.png in Resources */,
 				69D284D41B24C50000FCCA8F /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
